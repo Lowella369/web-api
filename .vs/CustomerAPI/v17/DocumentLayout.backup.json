@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B9468A-518B-4D75-961E-02A919ED5A57}|CustomerAPI.xUnitTests\\CustomerAPI.xUnitTests.csproj|c:\\users\\lowhu\\onedrive\\documents\\asp.net-core\\customerapi\\customerapi.xunittests\\customerscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B9468A-518B-4D75-961E-02A919ED5A57}|CustomerAPI.xUnitTests\\CustomerAPI.xUnitTests.csproj|solutionrelative:customerapi.xunittests\\customerscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\lowhu\\onedrive\\documents\\asp.net-core\\customerapi\\customerapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\lowhu\\onedrive\\documents\\asp.net-core\\customerapi\\customerapi\\models\\dto\\addcustomerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\models\\dto\\addcustomerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\lowhu\\onedrive\\documents\\asp.net-core\\customerapi\\customerapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\lowhu\\onedrive\\documents\\asp.net-core\\customerapi\\customerapi\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\lowhu\\onedrive\\documents\\asp.net-core\\customerapi\\customerapi\\repositories\\sqlcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\repositories\\sqlcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\lowhu\\onedrive\\documents\\asp.net-core\\customerapi\\customerapi\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\lowhu\\onedrive\\documents\\asp.net-core\\customerapi\\customerapi\\models\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\models\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\lowhu\\onedrive\\documents\\asp.net-core\\customerapi\\customerapi\\models\\dto\\updatecustomerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\models\\dto\\updatecustomerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B9468A-518B-4D75-961E-02A919ED5A57}|CustomerAPI.xUnitTests\\CustomerAPI.xUnitTests.csproj|c:\\users\\lowhu\\onedrive\\documents\\asp.net-core\\customerapi\\customerapi.xunittests\\customerrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B9468A-518B-4D75-961E-02A919ED5A57}|CustomerAPI.xUnitTests\\CustomerAPI.xUnitTests.csproj|solutionrelative:customerapi.xunittests\\customerrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\lowhu\\onedrive\\documents\\asp.net-core\\customerapi\\customerapi\\data\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\data\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\lowhu\\onedrive\\documents\\asp.net-core\\customerapi\\customerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\lowhu\\onedrive\\documents\\asp.net-core\\customerapi\\customerapi\\customerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\customerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|c:\\users\\lowhu\\onedrive\\documents\\asp.net-core\\customerapi\\customerapi\\migrations\\20240923192933_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FC39BB-A6AC-4329-A432-B2C7A8415D76}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\migrations\\20240923192933_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI.xUnitTests\\CustomersControllerTests.cs",
+              "RelativeDocumentMoniker": "CustomerAPI.xUnitTests\\CustomersControllerTests.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI.xUnitTests\\CustomersControllerTests.cs",
+              "RelativeToolTip": "CustomerAPI.xUnitTests\\CustomersControllerTests.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwF0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:26:11.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CustomerAPI\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:45:04.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddCustomerRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Models\\DTO\\AddCustomerRequestDto.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Models\\DTO\\AddCustomerRequestDto.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Models\\DTO\\AddCustomerRequestDto.cs",
+              "RelativeToolTip": "CustomerAPI\\Models\\DTO\\AddCustomerRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:26:03.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "CustomerAPI\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:23:52.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerAPI\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:11:02.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLCustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Repositories\\SQLCustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Repositories\\SQLCustomerRepository.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Repositories\\SQLCustomerRepository.cs",
+              "RelativeToolTip": "CustomerAPI\\Repositories\\SQLCustomerRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwCgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:26:07.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Models\\DTO\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Models\\DTO\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Models\\DTO\\CustomerDto.cs",
+              "RelativeToolTip": "CustomerAPI\\Models\\DTO\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:12:54.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "CustomerAPI\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T18:45:29.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateCustomerRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Models\\DTO\\UpdateCustomerRequestDto.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Models\\DTO\\UpdateCustomerRequestDto.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Models\\DTO\\UpdateCustomerRequestDto.cs",
+              "RelativeToolTip": "CustomerAPI\\Models\\DTO\\UpdateCustomerRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:43:16.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI.xUnitTests\\CustomerRepositoryTests.cs",
+              "RelativeDocumentMoniker": "CustomerAPI.xUnitTests\\CustomerRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI.xUnitTests\\CustomerRepositoryTests.cs",
+              "RelativeToolTip": "CustomerAPI.xUnitTests\\CustomerRepositoryTests.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAzwIMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:37.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Data\\CustomerDbContext.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Data\\CustomerDbContext.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Data\\CustomerDbContext.cs",
+              "RelativeToolTip": "CustomerAPI\\Data\\CustomerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:24:42.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\appsettings.json",
+              "RelativeToolTip": "CustomerAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T21:29:17.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\CustomerAPI.csproj",
+              "RelativeDocumentMoniker": "CustomerAPI\\CustomerAPI.csproj",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\CustomerAPI.csproj",
+              "RelativeToolTip": "CustomerAPI\\CustomerAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T18:45:02.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240923192933_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Migrations\\20240923192933_InitialMigration.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Migrations\\20240923192933_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\asp.net-core\\CustomerAPI\\CustomerAPI\\Migrations\\20240923192933_InitialMigration.cs",
+              "RelativeToolTip": "CustomerAPI\\Migrations\\20240923192933_InitialMigration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:29:33.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
